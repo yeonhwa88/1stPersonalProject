@@ -8,7 +8,7 @@ import os
 app = FastAPI()
 
 # Model Path
-MODEL_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "movies_sea-028-val0.4281.h5"))
+MODEL_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "../model/movies_sea-028-val0.4281.h5"))
 
 # Load Model
 model = tf.keras.models.load_model(MODEL_PATH) if os.path.exists(MODEL_PATH) else None
