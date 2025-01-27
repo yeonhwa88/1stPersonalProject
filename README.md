@@ -30,7 +30,7 @@
 [5. 시각화](https://github.com/yeonhwa88/1stPersonalProject?tab=readme-ov-file#5-시각화)<br>
 [6. DNN](https://github.com/yeonhwa88/1stPersonalProject?tab=readme-ov-file#6-DNN)<br>
 [7. 웹구현](https://github.com/yeonhwa88/1stPersonalProject?tab=readme-ov-file#7-웹구현)<br>
-[8. 연구결과, 시사점및개선방안](https://github.com/yeonhwa88/1stPersonalProject?tab=readme-ov-file#8-연구결과,시사점및개선방안)<br>
+[8. 연구결과, 시사점및개선방안](https://github.com/yeonhwa88/1stPersonalProject?tab=readme-ov-file#8-연구결과-시사점및개선방안)<br>
 
 ## 1. 주제선정 및 배경, 목표
 ![주제및선정배경](https://github.com/user-attachments/assets/5f1ade67-551a-4f62-af56-e2afbdb878d5)
