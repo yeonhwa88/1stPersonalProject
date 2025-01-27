@@ -30,11 +30,11 @@
 [5. 웹구현 시연](https://github.com/yeonhwa88/1stPersonalProject?tab=readme-ov-file#5)<br>
 
 ## 1. 주제선정 및 배경
-
+![첫대문](https://github.com/user-attachments/assets/7f1ff336-4bdd-43e2-b9dc-bf805cb7c318)
 ## 2.
-
+![주제및선정배경](https://github.com/user-attachments/assets/5f1ade67-551a-4f62-af56-e2afbdb878d5)
 ## 3.
-
+![목차](https://github.com/user-attachments/assets/36fd34c3-08c9-4352-acfe-78c19372d294)
 ## 4.
 
 ## 5.
