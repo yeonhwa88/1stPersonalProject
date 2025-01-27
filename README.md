@@ -23,19 +23,23 @@
 </div>
 
 ## 목차
-[1. 주제선정 및 배경](https://github.com/yeonhwa88/1stPersonalProject?tab=readme-ov-file#1-%EC%A3%BC%EC%A0%9C%EC%84%A0%EC%A0%95-%EB%B0%8F-%EB%B0%B0%EA%B2%BD)<br>
-[2. 주제선정 및 배경](https://github.com/yeonhwa88/1stPersonalProject?tab=readme-ov-file#2)<br>
-[3. 주제선정 및 배경](https://github.com/yeonhwa88/1stPersonalProject?tab=readme-ov-file#3)<br>
-[4. 주제선정 및 배경](https://github.com/yeonhwa88/1stPersonalProject?tab=readme-ov-file#4)<br>
-[5. 웹구현 시연](https://github.com/yeonhwa88/1stPersonalProject?tab=readme-ov-file#5)<br>
+[1. 주제선정 및 배경, 목표](https://github.com/user-attachments/assets/5f1ade67-551a-4f62-af56-e2afbdb878d5)<br>
+[2. 진행과정, 개발환경](https://github.com/user-attachments/assets/683f2756-480a-4552-8638-3af1043b6f6a)<br>
+[3. 웹크롤링](https://github.com/user-attachments/assets/ed9d8731-b89e-4e8b-b65c-4ff459b3a1c0)<br>
+[4. 전처리](https://github.com/user-attachments/assets/0576c70e-7d07-4b79-95ad-57df93e131ae)<br>
+[5. 시각화](https://github.com/user-attachments/assets/ed22b601-fb8a-4e2f-bd89-c0e354221470)<br>
+[6. DNN](https://github.com/user-attachments/assets/fa893fcc-f7b0-4ff3-ae6c-a9371bb43b19)<br>
+[7. 웹구현](https://github.com/user-attachments/assets/871888d6-edfb-48b8-b95d-f47114bf9802)<br>
+[8. 연구결과, 시사점및개선방안](https://github.com/user-attachments/assets/3969039f-83ef-4a00-ba2d-e1209134b449)<br>
 
-## 1. 주제선정 및 배경
-![첫대문](https://github.com/user-attachments/assets/7f1ff336-4bdd-43e2-b9dc-bf805cb7c318)
-## 2.
-![주제및선정배경](https://github.com/user-attachments/assets/5f1ade67-551a-4f62-af56-e2afbdb878d5)
-## 3.
-![목차](https://github.com/user-attachments/assets/36fd34c3-08c9-4352-acfe-78c19372d294)
-## 4.
+## 1. 주제선정 및 배경, 목표
+![주제선정 및 배경, 목표](https://github.com/user-attachments/assets/5f1ade67-551a-4f62-af56-e2afbdb878d5)
+## 2. 진행과정,개발환경
+![진행과정, 개발환경](https://github.com/user-attachments/assets/683f2756-480a-4552-8638-3af1043b6f6a)
+## 3. 웹크롤링
+![웹크롤링](https://github.com/user-attachments/assets/ed9d8731-b89e-4e8b-b65c-4ff459b3a1c0)
+## 4. 전처리
+![전처리](https://github.com/user-attachments/assets/0576c70e-7d07-4b79-95ad-57df93e131ae)<br>
 
 ## 5.
 
