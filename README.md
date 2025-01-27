@@ -23,7 +23,8 @@
 </div>
 
 ## 목차
-[1. 주제선정 및 배경, 목표](https://github.com/user-attachments/assets/5f1ade67-551a-4f62-af56-e2afbdb878d5)<br>
+[1. 주제선정 및 배경, 목표](https://github.com/user-attachments/assets/5f1ade67-551a-4f62-af56-e2afbdb878d5)
+[목표](https://github.com/user-attachments/assets/57b30fb3-f392-4967-a7b6-e65118f23633)<br>
 [2. 진행과정, 개발환경](https://github.com/user-attachments/assets/683f2756-480a-4552-8638-3af1043b6f6a)<br>
 [3. 웹크롤링](https://github.com/user-attachments/assets/ed9d8731-b89e-4e8b-b65c-4ff459b3a1c0)<br>
 [4. 전처리](https://github.com/user-attachments/assets/0576c70e-7d07-4b79-95ad-57df93e131ae)<br>
@@ -34,7 +35,7 @@
 
 ## 1. 주제선정 및 배경, 목표
 ![주제선정 및 배경](https://github.com/yeonhwa88/1stPersonalProject?tab=readme-ov-file#1-주제선정-및-배경-목표)
-![목표](https://github.com/user-attachments/assets/57b30fb3-f392-4967-a7b6-e65118f23633)
+[목표](https://github.com/user-attachments/assets/57b30fb3-f392-4967-a7b6-e65118f23633)
 ## 2. 진행과정,개발환경
 ![진행과정, 개발환경](https://github.com/yeonhwa88/1stPersonalProject?tab=readme-ov-file#2-진행과정개발환경)
 ## 3. 웹크롤링
