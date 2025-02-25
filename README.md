@@ -22,8 +22,6 @@
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=siyun's%20GitHub)
-
 ![깃허브 스택](https://github-readme-stats.vercel.app/api?username=yeonhwa88&show_icons=true&theme=shadow_green)
 
 ![깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonhwa88&layout=compact&theme=dark)
