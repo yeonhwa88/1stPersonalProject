@@ -7,7 +7,7 @@
 - Python openSource : 라이브러리
 - Python library : ...
 - micro Framework : FastAPI
-- 프로젝트 소개 :  사용자가 장르, 오픈 스크린 수, 예측 관람객 수, 관람 등급을 선택하면, 해당 조건에서 최적의 개봉 계절을 예측해주는 시스템을 개발하는 것입니다. 영화 평점, 개봉 월, 장르 등의 데이터를 분석하여 계절별 흥행 경향과 관객 수를 예측하고, 이를 바탕으로 가장 적절한 개봉 시기를 제안합니다.
+- 프로젝트 소개 :  사용자가 장르, 오픈 스크린 수, 예측 관람객 수, 관람 등급을 선택하면, 해당 조건에서 최적의 개봉 계절을 예측해주는 시스템 입니다.
 
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
