@@ -47,9 +47,9 @@
 ![씨네21](https://github.com/user-attachments/assets/a8138e48-9806-4fa4-b686-1cfa07a3d47d)
 ## 4. 전처리
 ![1전처리](https://github.com/user-attachments/assets/47cbdc52-2420-43e5-b705-4ccfe7f65a50)
-![2전처리](https://github.com/user-attachments/assets/2a4e3765-cd94-4809-9601-f8963715ba79)
+![2전처리](https://github.com/user-attachments/assets/4441235d-5ba6-4101-909b-483b0dd8c113)
 ## 5. 시각화
-![1시각화](https://github.com/user-attachments/assets/e6c4eeae-25c0-4c93-8e42-c4da15ae9530)
+![1시각화](https://github.com/user-attachments/assets/69fce183-d9bd-48ce-9e0e-1763b6162e9d)
 ![2시각화](https://github.com/user-attachments/assets/412bf2e5-35d7-4634-b748-c76f1cc68be7)
 ![3시각화](https://github.com/user-attachments/assets/bfce540e-1004-4e67-8bd1-c6a8ef0154dc)
 ![4시각화](https://github.com/user-attachments/assets/67f9cc6e-c927-4594-a2aa-b0603de35a3c)
