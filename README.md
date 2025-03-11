@@ -1,13 +1,12 @@
 # 1차 프로젝트
 > 개별 프로젝트
 
-- 프로젝트명 : 영화 개봉 계절 예측 (인원 1명)
+- 프로젝트명 : 영화 개봉 계절 예측기 (인원 1명)
 - 기간 : 2025.01.13 ~ 2025.01.26 (2주)
-- 언어 : Python 3.10.9
-- Python openSource : 라이브러리
-- Python library : ...
-- micro Framework : FastAPI
-- 프로젝트 소개 :  사용자가 장르, 오픈 스크린 수, 예측 관람객 수, 관람 등급을 선택하면, 해당 조건에서 최적의 개봉 계절을 예측해주는 시스템 입니다.
+- Language : Python 3.10.9
+- OpenSource : Tensorflow2.10, pandas 1.5.3, Numpy 1.24.4, Seaborn 0.12.2, Selenium 4.27.1, Sklearn 1.2.1, matplotlib 3.7.0
+- Framework : FastAPI
+- 프로젝트 소개 :  웹 크롤링 자동화를 통해 기존 데이터셋의 한계를 보완하고, 딥러닝 모델을 활용한 예측 기반 분석을 수행하여 DNN 모델로 정밀도를 높였으며, 최종적으로 FastAPI 기반 API를 구축하여 실제 서비스로 활용 가능하도록 구현했습니다.
 
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
