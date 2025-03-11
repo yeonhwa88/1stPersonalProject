@@ -47,7 +47,8 @@
 ![네이버](https://github.com/user-attachments/assets/d5b0fa9f-bcd1-46c8-b5be-1edd8fd9e02a)
 ![씨네21](https://github.com/user-attachments/assets/a8138e48-9806-4fa4-b686-1cfa07a3d47d)
 ## 4. 전처리
-![전처리](https://github.com/user-attachments/assets/2af5d5ef-a639-4b5e-b23e-37b1a5e932ae)
+![1전처리](https://github.com/user-attachments/assets/47cbdc52-2420-43e5-b705-4ccfe7f65a50)
+![2전처리](https://github.com/user-attachments/assets/2a4e3765-cd94-4809-9601-f8963715ba79)
 ## 5. 시각화
 ![1시각화](https://github.com/user-attachments/assets/e6c4eeae-25c0-4c93-8e42-c4da15ae9530)
 ![2시각화](https://github.com/user-attachments/assets/412bf2e5-35d7-4634-b748-c76f1cc68be7)
